@@ -26,3 +26,17 @@
 - <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91d.svg" width="20"/> Looking to collaborate on **open source projects using JavaScript frameworks**  
 - <img src="https://twemoji.maxcdn.com/v/latest/svg/1f331.svg" width="20"/> Currently learning **.NET and C#**
 
+
+---
+
+<h2 align="center">
+  Thanks for stopping by!
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f31f.svg" width="25"/>
+</h2>
+
+<p align="center">
+   Keep coding, keep learning, and keep smiling
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f496.svg" width="20"/> 
+</p>
+
+
