@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center" width="50">
+  
+  <img 
+    src="https://ltecnologia.com.br/blog/wp-content/webp-express/webp-images/uploads/2015/02/helloworld.png.webp" 
+    alt="Welcome!"
+  />
+  
+</div>
 
-<!--
-**afnmo/afnmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> 
+  Greetings, <𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛𝚜/>!
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg" width="25"/>
+</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Afnan — Software Developer</strong><br/>
+  Building, learning, and having fun along the way.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
