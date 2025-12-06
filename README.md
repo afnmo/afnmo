@@ -40,3 +40,21 @@
 </p>
 
 
+
+<h3 align="center">
+ Let's Connect!
+</h3>
+
+<p align="center">
+  <a href="https://github.com/afnmo">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="25"/>
+  </a>
+  <a href="https://linkedin.com/in/afnanalotaibi0">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="25"/>
+  </a>
+  <a href="mailto:afnanmo95@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="25"/>
+  </a>
+
+</p>
+
