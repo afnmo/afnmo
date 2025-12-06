@@ -17,3 +17,12 @@
   Building, learning, and having fun along the way.
 </p>
 
+---
+
+### <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e9.svg" width="20"/> About Me
+- <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5a5.svg" width="20"/> Software developer with a focus on **web development**  
+- <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3af.svg" width="20"/> Currently training at **Tuwaiq Software Development Bootcamp**  
+- <img src="https://twemoji.maxcdn.com/v/latest/svg/1f300.svg" width="20"/> Completed a year-long **Software Engineering Internship at Lean**  
+- <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91d.svg" width="20"/> Looking to collaborate on **open source projects using JavaScript frameworks**  
+- <img src="https://twemoji.maxcdn.com/v/latest/svg/1f331.svg" width="20"/> Currently learning **.NET and C#**
+
